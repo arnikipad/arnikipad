@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently working creating a program
+
 <!--
 **arnikipad/arnikipad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
